@@ -10,7 +10,7 @@ I am a B.Sc. CSIT student focused on building a career in software engineering. 
 
 - 🎓 B.Sc. CSIT Student  
 - ☕ Primary Language: Java  
-- 🐍 Secondary Language: Python (basic use for AI/automation understanding)  
+- 🐍 Secondary Language: Python (basic AI & automation)  
 - 📚 Focus Areas: DSA, DAA, Spring Boot  
 - 🎯 Goal: Become a Software Engineer  
 
@@ -24,15 +24,6 @@ I am a B.Sc. CSIT student focused on building a career in software engineering. 
 - Spring Boot (learning)  
 - Python (basic)  
 - Git & GitHub (basic)
-
----
-
-## 🎯 Current Focus
-
-- Improving problem-solving skills  
-- Practicing DSA regularly  
-- Learning Spring Boot for backend development  
-- Strengthening Java fundamentals  
 
 ---
 

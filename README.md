@@ -1,32 +1,28 @@
 # 👋 Hi, I'm Vijay
 
-### 💻 B.Sc. CSIT Student | Aspiring Software Engineer
+### B.Sc. CSIT Student @ TU | Aspiring Software Engineer
 
-I am a B.Sc. CSIT student focused on building a career in software engineering. My main goal is to improve my programming skills, problem-solving ability, and backend development knowledge.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Sc. CSIT Student  
-- ☕ Primary Language: Java  
-- 🐍 Secondary Language: Python (basic AI & automation)  
-- 📚 Focus Areas: DSA, DAA, Spring Boot  
-- 🎯 Goal: Become a Software Engineer  
+I am a B.Sc. CSIT student under the TU curriculum. Focused on mastering core computer science foundations, sharpening problem-solving abilities, and building solid system logic.
 
 ---
 
-## 🛠️ Skills
+## 👨‍💻 Profile
 
-- Java  
-- Data Structures and Algorithms (DSA)  
-- Design and Analysis of Algorithms (DAA)  
-- Spring Boot (learning)  
-- Python (basic)  
-- Git & GitHub (basic)
+* *Academic Path:* Pursuing B.Sc. in Computer Science & Information Technology (CSIT) under TU curriculum
+* *Primary Stack:* Java & Spring Boot 
+* *Core Foundations:* Data Structures & Algorithms (DSA) & Design and Analysis of Algorithms (DAA)
+* *Automation & Scripting:* Python
 
 ---
 
-## 🚀 Goal
+## 🛠️ Tech Stack & Skills
+Java | Python | Spring Boot (Learning) | DSA & DAA
 
-To become a disciplined and skilled Software Engineer.
+---
+
+## 🔗 Connect With Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/vijay-chaudhary-742295414/](https://linkedin.com/in/vijay-chaudhary-742295414/)
+  
+---
+

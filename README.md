@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Vijay
 
-### B.Sc. CSIT Student @ TU | Aspiring Software Engineer
 
 I am a B.Sc. CSIT student under the TU curriculum. Focused on mastering core computer science foundations, sharpening problem-solving abilities, and building solid system logic.
 
